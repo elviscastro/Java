@@ -1,3 +1,4 @@
+package exercicios_secao4.arquivosDeAula;
 public class exemplo2{
     public static void main(String[] args) {
         int x;

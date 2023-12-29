@@ -1,3 +1,4 @@
+package exercicios_secao4.arquivosDeAula;
 import java.util.Scanner;
 
 public class entradaDeDados {
